@@ -1,13 +1,14 @@
 import random
 import datetime
-# prepare data for task
-DATA_COUNT = 5
 
+DATA_COUNT = 3
+
+# prepare data for task
 data = [[(str(random.randint(1000000000, 10000000000)) +
         ' neurodivergence.altitude.z0 ' + str(random.randint(1, 1000000))) for x in range(DATA_COUNT)] for i in range(DATA_COUNT)]
 
 
-def combine_sensors_data(*args: list) -> list:
+def combine_sensors_data(*args: list) -> list:  # Solution #1
     all_lists = []
     for arg in args:
         all_lists.extend(arg)
