@@ -1,0 +1,58 @@
+SUMMARY
+•  8 years of experience in developing, engineering, testing, designing and implementing 
+of various standalone and client-server architecture-based application software in Python, 
+Rust, Go and Javascript. There is also a lot of experience in machine learning, in particular, 
+computer vision, deep learning, natural language processing, integrating machine learning 
+algorithms.
+• Expertise in Object Oriented Concepts, Object Oriented Design (OOD), Object Oriented 
+Analysis(OOA) and Programming concepts in Python and Rust. 
+• Deep understanding of microservice and monolith architecture.
+• Good experience in developing web applications implementing Model View Controller 
+architecture using Flask and Django web application frameworks.
+• Good experience in developing using Django(Django REST Framework), Flask, FastAPI to 
+create various API backends.
+• Good experience in creation of smart contracts using Solidity.
+• Strong experience in creation of NFT projects using Solana and Metaplex.
+• Good at writing SQL Queries, Stored procedures, functions, packages, tables, views, 
+triggers using relational databases like PostgreSQL, MySQL , Aurora, Sqlite3 and Good 
+knowledge in using NoSQL database MongoDB, Cassandra, DynamoDB. 
+•  Experience with JavaScript and TypeScript leading Frameworks Team like Angular, React.
+js, Vue.js, and Node.js.
+• Strong experience with Server Side Rendering
+• Strong frontend UI, UX development skills using scripting languages like HTML, CSS(SASS, 
+SCSS), JavaScript, JQuery, AJAX, JSON,  DOM, JSP .
+• Experience in the development and training of various neural networks using Tensorflow 
+and Pytorch.
+• Great experience with computer vision and image progressing using OpenCV.
+• Extensive experience in working with graphics and tensor Nvidia accelerators, in order to 
+repeatedly increase productivity in the training of neural networks and video processing.
+• Development in cloud infrastructure like AWS, GCC, Azure.
+• Hands on experience in AWS provisioning and good knowledge of AWS services like EC2, 
+S3, SageMaker, Cognito, Lambda, Certificate Manager, ELB, RDS, Redshift, IAM, Route 53, 
+VPC, Auto scaling, CloudFront, CloudWatch, CloudTrail, CloudFormation, Security Groups, 
+Balance Loader.
+• Experience in creating a CI / CD infrastructure using Travis and Jenkins.
+• Understanding of security and encryption technologies.
+• Knowledge of authentication protocols including OpenID, OIDC, OAuth, SAML, and LDAP . 
+• Knowledge of Docker containerization and Kubernetes/EKS cluster management for 
+container orchestration.ALEXEY BELOV
+PYTHON ARCHITECT
+INFO
+EMAIL
+alenorze@gmail.com
+LOCATION
+Kyiv, Ukraine
+INSTAGRAM
+@alenorze
+FACEBOOK
+@alenorze
+LINKEDIN
+linkedin.com/in/alenorze    
+GITHUB
+github.com/Alenorze
+TWITTER
+@alenorze
+TELEGRAM
+@alenorze
+SKYPE
+alenorze

@@ -1,0 +1,15 @@
+Какие команды вы знаете? 
+● Запуск сервера разработки: python manage.py runserver 
+● Создание нового Django проекта: django-admin startproject project_name 
+● Создание нового Django приложения: python manage.py startapp app_name 
+● Создание миграций базы данных на основе изменений в моделях: python manage.py makemigrations 
+● Применение миграций и обновление базы данных: python manage.py migrate 
+● Создание суперпользователя для доступа к административной панели: python manage.py createsuperuser 
+● Загрузка данных из файла фикстур в базу данных: python manage.py loaddata fixture_file.json 
+● Создание файла фикстур на основе данных из базы данных: python manage.py dumpdata app_name > fixture_file.json 
+● Запуск тестов: python manage.py test 
+● Создание переводных файлов для локализации: python manage.py makemessages -l lang_code 
+● Компиляция переводных файлов: python manage.py compilemessages 
+● Проверка синтаксиса Python кода в проекте: python manage.py check 
+● Очистка устаревших миграций: python manage.py squashmigrations app_name migration_name 
+● Создание административной панели для указанных моделей: python manage.py createsuperuser 

@@ -1,0 +1,18 @@
+Какие базы данных вы знаете? 
+ Реляционные базы данных (SQL): 
+● MySQL 
+● PostgreSQL 
+● Oracle Database 
+● Microsoft SQL Server 
+● SQLite 
+● IBM Db2 
+● MariaDB 
+ Нереляционные базы данных (NoSQL): 
+● MongoDB 
+● Cassandra 
+● Redis 
+● Couchbase 
+● Neo4j 
+● Amazon DynamoDB 
+● Google Cloud Firestore 
+● Apache HBase 

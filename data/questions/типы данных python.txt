@@ -1,0 +1,22 @@
+Типы данных Python 
+1. None  (неопределенное значение переменной) 
+2. Логические переменные ( Boolean Type )
+3. Числа ( Numeric Type )
+a. int – целое число 
+b. ﬂoat  – число с плавающей точкой 
+c. complex  – комплексное число 
+4. Списки ( Sequence Type )
+a. list – список 
+b. tuple  – кортеж 
+c. range  – диапазон 
+5. Строки ( Text Sequence Type  )
+a. str
+6. Бинарные списки ( Binary Sequence Types )
+a. bytes  – байты 
+b. bytearray  – массивы байт 
+c. memoryview  – специальные объекты для доступа к внутренним данным объекта через protocol buffer 
+7. Множества ( Set Types )
+a. set – множество 
+b. frozenset  – неизменяемое множество 
+8. Словари ( Mapping Types )
+a. dict – словарь 

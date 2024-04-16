@@ -1,0 +1,42 @@
+ALEXEY BELOV
+PYTHON ARCHITECT
+Summary : 8 years of experience in backend development, especially with Python, 
+broad knowledge in frontend and clouds.
+Skills : Python, Rust, Typescript, Javascript, Go, Flask, FastAPI, Django, Django REST 
+Framework, SQL, PostgresSQL, MongoDB, CI/CD, Docker, Kubernetes, AWS, GCP , 
+Azure, SQLAlchemy, Numpy, OpenCV, MongoDB, WEB3, Solidity, Solana, Linux, Win -
+dows, MacOS, AsyncIO, Celery, RabbitMQ, Redis, React.JS, Angular, Vue.js
+Work experience :
+Customertimes | Python Architect | September 2020 - Present
+Team leading, 10 members mixed team. Work as Solution Achitect, 
+python backend development, microservice and monolithic architecture design.
+MWDN | Senior Backend Cloud Developer | March 2020 - September 2020
+Development of a global repository of genomes and genomic data and associated metadata, 
+using AWS infrastructure .
+Confidential  | Python Team Lead | September 2018 - February 2020
+Creation of a control system for non-normative and morally violating statements, obscene language. 
+Using tensorflow as a basic tool. Leading team of 6 python engineers.
+TND | Senior Python Developer | September 2016 - September 2018
+Development of various api to simplify interaction with various cryptocurrency exchanges
+NEAPOLYS  | Middle Python Developer | March 2014 - August 2016
+Development of an interface for non-relational databases based on django, 
+support and visual improvements of selling pages.
+FREELANCE  | Junior Python Developer | January 2014 - March 2014
+Development of various applications based on the Django and Flask frameworks. 
+Creating ecommerce applications using mvc methodologies.
+FREELANCE  | Junior Javascipt Developer | September 2013 - January 2014
+Creating various html layouts and js scripts.SHORT VERSION OF CV
+LOCATION
+Kyiv, Ukraine
+EMAIL
+alenorze@gmail.com
+LINKEDIN
+linkedin.com/in/alenorze    
+GITHUB
+github.com/Alenorze
+LANGUAGES
+English - Advanced
+Ukrainian - Native
+Russian - Native
+EXPERIENCE IN DEVELOPMENT
+8 years
