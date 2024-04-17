@@ -15,6 +15,9 @@
 """
 
 
+from itertools import cycle
+
+
 def infinite(lst: list, tries: int) -> str:
     result = []
     i = j = 0
@@ -38,6 +41,13 @@ def infinite2(lst: list, tries: int) -> str:
             result.append(n)
 
 
+def infinite3(lst: list, tries: int) -> str:
+    result = ""
+    cycle_lst = cycle(lst)
+    for _ in range(tries):
+        result += str(next(cycle_lst))
+    return result
+
+
 if __name__ == "__main__":
-    # print(infinite([1, 2, 3, 4, 5, 6, 7, 8, 9], 10))
-    print(infinite2([1, 2, 3, 4, 5, 6, 7, 8, 9], 10))
+    print(infinite3([1, 2, 3, 4, 5, 6, 7, 8, 9], 20))
